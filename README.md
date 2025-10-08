@@ -1,11 +1,8 @@
 <!-- 
   Hi Kunliang! 
   
-  This is the README draft for your GitHub profile.
-  You can copy and paste the entire content below into the README.md file 
-  in your special repository 'Unibrighter/Unibrighter'.
-  
-  Feel free to customize it further! 
+  This is the V2 draft for your GitHub profile README.
+  It includes the fix for the GitHub Stats card and adds your project portfolio.
 -->
 
 <!-- Header and Introduction -->
@@ -32,9 +29,36 @@
   I'm a Senior Software Engineer with over 10 years of experience, specializing in AI/ML solutions and native iOS development. I have a dual passion for building robust, enterprise-level mobile applications and creating my own products as an indie developer.
 </p>
 
-- 🚀 As an indie dev, I've shipped **9 iOS apps** to the App Store, reaching over **80,000 users**.
+- 🚀 As an indie dev, I've shipped **9+ iOS apps** to the App Store, reaching over **80,000 users**.
 - 💡 I love turning complex problems into elegant software, from backend architecture to pixel-perfect UIs.
 - 🤖 Currently, I'm diving deep into **MLOps, RAGs, and the fascinating world of LLMs**.
+
+---
+
+<!-- NEW: My Projects Section -->
+<h3 align="left">My Projects & Apps</h3>
+
+<p align="left">
+  One of my apps, <i>Top-Trending Widget</i>, reached <strong>#9 on the Global Paid Productivity App Chart</strong>. Here are some of the things I've built:
+</p>
+
+**📱 iOS Apps**
+*   [**Top-Trending Widget App**](https://top-trending.app/) - Real-time trends monitoring on your home screen.
+*   [**PiP Up: Persist/Float/Post-It**](https://apps.apple.com/us/app/pip-up-persist-float-post-it/id6483210322) - Picture-in-Picture for notes and content.
+*   [**WigglyPaint: Draw/Shake/Share!**](https://apps.apple.com/us/app/wigglypaint-draw-shake-share/id6751747069)
+*   [**Always on Top on iOS**](https://apps.apple.com/us/app/always-on-top-pdf-web-images/id6747107679)
+*   [**Pic to Zip: Bulk Resize to PDF**](https://apps.apple.com/us/app/pic-to-zip-bulk-resize-to-pdf/id6471817020)
+*   [**I-Ching Consultation App**](https://unibrighter.github.io/iching/)
+*   [**ASCII Art Generator**](https://apps.apple.com/us/app/ascii-art-generator-image-text/id6753155579)
+*   [**Dress to Impress Wiki Community**](https://apps.apple.com/us/app/dti-new-dress-to-impress-codes/id6742550378)
+*   [**Fly Kiss: Instant Love Message**](https://apps.apple.com/us/app/fly-kiss-instant-love-message/id6740311832)
+
+**🌐 Web Projects**
+*   [**Lip Color Finder & Shade Matcher**](https://lipcolorfinder.com/) - An AI-powered tool for beauty tech.
+*   [**Classic Matrix Rain Screensaver**](https://matrixscreensaver.online/)
+*   [**Retro DVD Screensaver**](https://dvd.screensaver.run/)
+*   [**My Tech & Indie Dev Blog**](https://kunlun.co/)
+*   [A game archive site](https://sprunkidandysworld.com/) *(inactive)*
 
 ---
 
@@ -67,21 +91,14 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-<p align="left">
-  <strong>⚙️ DevOps & CI/CD:</strong><br>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</p>
-
 ---
 
 <!-- GitHub Stats Section -->
 <h3 align="left">My GitHub Stats</h3>
 
 <p align="center">
-  <!-- Change the `?username=` value to your GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unibrighter&show_icons=true&hide_border=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Kunliang's GitHub Stats"/>
+  <!-- FIX APPLIED: Using a more stable URL for the stats card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unibrighter&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="Kunliang's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unibrighter&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=8" alt="Kunliang's Top Languages"/>
 </p>
 
@@ -89,8 +106,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unibrighter&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<!-- 
-  You can also add a "Pinned Projects" section here later if you like!
-  For now, GitHub's default pinned repositories will work great.
--->
