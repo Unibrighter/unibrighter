@@ -8,7 +8,7 @@
 <!-- Header and Introduction -->
 
 <h1 align="center">
-  Hi there <a href="https://kunlun.co/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Kunliang(Robert) Wu.
+  Hi there <a href="https://kunlun.co/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Robert Wu.
 </h1>
 <h3 align="center">Software Engineer (AI/ML) & Indie Developer</h3>
 
