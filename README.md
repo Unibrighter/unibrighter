@@ -39,7 +39,7 @@
 <h3 align="left">My Projects & Apps</h3>
 
 <p align="left">
-  One of my apps, <i>Top-Trending Widget</i>, reached <strong>#9 on the Global Paid Productivity App Chart</strong>. Here are some of the things I've built:
+  One of my apps reached <strong>#9 on the Global Paid Productivity App Chart</strong>. Here are some of the things I've built:
 </p>
 
 **📱 iOS Apps**
@@ -98,7 +98,7 @@
 
 <p align="center">
   <!-- FIX APPLIED: Using a more stable URL for the stats card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unibrighter&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="Kunliang's GitHub Stats"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unibrighter&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="Kunliang's GitHub Stats"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unibrighter&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=8" alt="Kunliang's Top Languages"/>
 </p>
 
