@@ -30,7 +30,7 @@
   I'm a Senior Software Engineer with over 10 years of experience, specializing in AI/ML solutions and native iOS development. I have a dual passion for building robust, enterprise-level mobile applications and creating my own products as an indie developer.
 </p>
 
-- 🚀 As an indie dev, I've shipped **9+ iOS apps** to the App Store, reaching over **80,000 users**.
+- 🚀 As an indie dev, I've shipped **10+ iOS apps** to the App Store, reaching over **80,000 users**.
 - 💡 I love turning complex problems into elegant software, from backend architecture to pixel-perfect UIs.
 - 🤖 Currently, I'm diving deep into **MLOps, RAGs, and the fascinating world of LLMs**.
 
@@ -40,10 +40,10 @@
 <h3 align="left">My Projects & Apps</h3>
 
 <p align="left">
-  One of my apps reached <strong>#9 on the Global Paid Productivity App Chart</strong>. Here are some of the things I've built:
+  One of my apps reached <strong>#6 on the Global Paid Productivity App Chart</strong>. Here are some of the things I've built:
 </p>
 
-**📱 iOS Apps**
+**📱 Some of My iOS Apps**
 *   [**Top-Trending Widget App**](https://top-trending.app/) - Real-time trends monitoring on your home screen.
 *   [**PiP Up: Persist/Float/Post-It**](https://apps.apple.com/us/app/pip-up-persist-float-post-it/id6483210322) - Picture-in-Picture for notes and content.
 *   [**WigglyPaint: Draw/Shake/Share!**](https://apps.apple.com/us/app/wigglypaint-draw-shake-share/id6751747069)
